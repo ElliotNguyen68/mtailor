@@ -1,0 +1,4 @@
+sanic==22.6.2
+accelerate
+onnx
+onnxruntime
